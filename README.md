@@ -3,7 +3,10 @@
 首先，按图搜索，测试号，进来之后微信扫码登录！
 ![cf7dbd4502df44765ed3506f55caea5](https://user-images.githubusercontent.com/9566402/183242272-134e37e7-718d-42dd-9ed7-fca2810e94e6.png)
 
+![avatar]([http://baidu.com/pic/doge.png](https://img-blog.csdnimg.cn/fd04437662a946bbbcf15e8b5a5d40aa.png))
+
 按图点击 Use this template，创建到自己的仓库下！
+
 ![e6581c43572b00b12c1a82ca8d7178b](https://user-images.githubusercontent.com/9566402/183242340-2ef26c63-1ca1-420e-abd4-8672c25d61c9.png)
 
 按下图，创建模板，设置变量，把微信公众平台上的各种字符串按说明创建到 GitHub -> Settings -> Secrets -> Actions 中。
