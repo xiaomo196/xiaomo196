@@ -3,7 +3,7 @@
 首先，按图搜索，测试号，进来之后微信扫码登录！
 ![cf7dbd4502df44765ed3506f55caea5](https://user-images.githubusercontent.com/9566402/183242272-134e37e7-718d-42dd-9ed7-fca2810e94e6.png)
 
-![avatar]([http://baidu.com/pic/doge.png](https://img-blog.csdnimg.cn/fd04437662a946bbbcf15e8b5a5d40aa.png))
+![avatar](https://img-blog.csdnimg.cn/fd04437662a946bbbcf15e8b5a5d40aa.png)
 
 按图点击 Use this template，创建到自己的仓库下！
 
