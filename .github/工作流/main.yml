@@ -23,9 +23,20 @@ jobs:
     - run: pip install -r ./requirements.txt && python ./main.py
 
     env:
-      APP_ID: ${{ secrets.APP_ID }}
-      APP_SECRET: ${{ secrets.APP_SECRET }}
-      TEMPLATE_ID: ${{ secrets.TEMPLATE_ID }}
+      APP_ID: ${{ secrets.APP_IDwxc5e50525e0c154c3 }}
+      APP_SECRET: ${{ secrets.APP_SECRETsd24e5640a4a4785b22708beb4f9139e }}
+      TEMPLATE_ID: ${{ secrets.TEMPLATE_ID亲爱的，早上好
+{{date.DATA}}
+城市：{(city.DATAfY
+天气：t'weather.DATAH
+最低气温：tmin_temperature.DATAf}
+最高气温：fmax_ temperature.DATAH
+今天是我们恋爱的第tlove_ day.DATA}天
+今今天是我们结婚的第 fmarry_day .DATA}}
+{{birthday_message.DATA]]
+{one_talk.DATA}} -- {{talk_ from.DATA}}
+{{note_en.DATA}}
+({note_ch.DATA}} }}
       USER_ID: ${{ secrets.USER_ID }}
       START_DATE: ${{ secrets.START_DATE }}
       BIRTHDAY: ${{ secrets.BIRTHDAY }}
